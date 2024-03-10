@@ -15,3 +15,13 @@ Chrome - Desktop - 1536x864
 source - https://www.getcalley.com/
 7. Text is getting wrapped to next line on Cards - Calley Auto calling Vs Cloud Telephony
 source - https://www.getcalley.com/
+
+Chrome - Mobile - 360x640
+8. Website navigation links on footer are not visbile on Mobile responsive screen, displays a long blank portion on the footer
+source - https://www.getcalley.com/
+9. Play button is too large on the video placed on the hero section
+source - https://www.getcalley.com/calley-call-from-browser/
+10. Texts are not properly arranged on the all mobile responsive resolutions
+source - https://www.getcalley.com/
+
+All the same issues being faced in the Firefox browser
