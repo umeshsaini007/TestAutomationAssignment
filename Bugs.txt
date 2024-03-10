@@ -1,0 +1,17 @@
+Chrome - Desktop - 1366x768
+1. Image got cropper on the section - "Differnt Auto dialing modes supported by calley?"
+source - https://www.getcalley.com/
+2. List of footer items are not being arranged in the same line - single list item "Call center software" is utilizing the new line
+source - https://www.getcalley.com/
+3. User interface is distorted as the CSS has not been applied properly on the page - For all the resolutions
+source - https://www.getcalley.com/best-auto-dialer-app/
+4. User interface is distorted as the CSS has not been applied properly on the page - For all the resolutions
+source - https://www.getcalley.com/calley-pro-features/
+5. Text is getting wrapped to next line on Cards - Calley Auto calling Vs Cloud Telephony
+source - https://www.getcalley.com/
+
+Chrome - Desktop - 1536x864
+6. Image got cropper on the section - "Differnt Auto dialing modes supported by calley?"
+source - https://www.getcalley.com/
+7. Text is getting wrapped to next line on Cards - Calley Auto calling Vs Cloud Telephony
+source - https://www.getcalley.com/
